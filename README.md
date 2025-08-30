@@ -45,7 +45,7 @@ You are free to use, remix, and distribute the game, provided you give appropria
 ## 👩‍🏫 Citation
 
 If you use or adapt this project for teaching, please cite:  
-**Clownfish Biology Game** – Scratch project by *[Your Name]*.  
+**Clownfish Biology Game** – Scratch project by *Alberto Garcia*.  
 
 ---
 
